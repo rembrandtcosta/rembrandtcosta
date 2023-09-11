@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=rembrandtcosta&hide=Makefile&langs_count=10)
+Computer Science Student. Full Stack Developer. Functional Programming enjoyer. 
 <!--
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=rembrandtcosta&hide=Makefile&langs_count=10)
 **rembrandtcosta/rembrandtcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
